@@ -1,0 +1,189 @@
+{
+  "generated_at": "2026-08-11 12:33 UTC",
+  "k": 4,
+  "hits": 10,
+  "total": 10,
+  "hit_rate": 1.0,
+  "rows": [
+    {
+      "id": "Q1",
+      "question": "What is few-shot learning?",
+      "hit": true,
+      "detail": "file+text | top: few_shot_learning_notes.md (0.76), few_shot_learning_notes.md (0.63), vqa_overview.md (0.49)",
+      "top_files": [
+        "few_shot_learning_notes.md",
+        "few_shot_learning_notes.md",
+        "vqa_overview.md",
+        "few_shot_learning_notes.md"
+      ],
+      "top_scores": [
+        0.763,
+        0.631,
+        0.491,
+        0.428
+      ]
+    },
+    {
+      "id": "Q2",
+      "question": "What is the N-way K-shot protocol?",
+      "hit": true,
+      "detail": "file+text | top: few_shot_learning_notes.md (0.64), few_shot_learning_notes.md (0.29), vqa_overview.md (0.28)",
+      "top_files": [
+        "few_shot_learning_notes.md",
+        "few_shot_learning_notes.md",
+        "vqa_overview.md",
+        "few_shot_learning_notes.md"
+      ],
+      "top_scores": [
+        0.637,
+        0.288,
+        0.278,
+        0.238
+      ]
+    },
+    {
+      "id": "Q3",
+      "question": "What challenges exist in Visual Question Answering?",
+      "hit": true,
+      "detail": "file+text | top: vqa_overview.md (0.73), few_shot_learning_notes.md (0.67), vqa_overview.md (0.64)",
+      "top_files": [
+        "vqa_overview.md",
+        "few_shot_learning_notes.md",
+        "vqa_overview.md",
+        "vqa_overview.md"
+      ],
+      "top_scores": [
+        0.732,
+        0.672,
+        0.644,
+        0.596
+      ]
+    },
+    {
+      "id": "Q4",
+      "question": "How does Lantern generate answers?",
+      "hit": true,
+      "detail": "file+text | top: lantern_brief.md (0.75), rag_basics.md (0.59), lantern_brief.md (0.56)",
+      "top_files": [
+        "lantern_brief.md",
+        "rag_basics.md",
+        "lantern_brief.md",
+        "lantern_brief.md"
+      ],
+      "top_scores": [
+        0.749,
+        0.589,
+        0.556,
+        0.553
+      ]
+    },
+    {
+      "id": "Q5",
+      "question": "What is self-attention in Transformers?",
+      "hit": true,
+      "detail": "file+text | top: transformers_attention.md (0.61), transformers_attention.md (0.44), transformers_attention.md (0.41)",
+      "top_files": [
+        "transformers_attention.md",
+        "transformers_attention.md",
+        "transformers_attention.md",
+        "transformers_attention.md"
+      ],
+      "top_scores": [
+        0.611,
+        0.444,
+        0.409,
+        0.399
+      ]
+    },
+    {
+      "id": "Q6",
+      "question": "Explain Retrieval-Augmented Generation in one paragraph.",
+      "hit": true,
+      "detail": "file+text | top: rag_basics.md (0.59), rag_evaluation_notes.md (0.50), transformers_attention.md (0.48)",
+      "top_files": [
+        "rag_basics.md",
+        "rag_evaluation_notes.md",
+        "transformers_attention.md",
+        "vqa_overview.md"
+      ],
+      "top_scores": [
+        0.586,
+        0.5,
+        0.477,
+        0.452
+      ]
+    },
+    {
+      "id": "Q7",
+      "question": "What is the difference between precision and recall?",
+      "hit": true,
+      "detail": "file+text | top: ml_metrics.md (0.54), ml_metrics_precision_recall.md (0.54), ml_metrics.md (0.54)",
+      "top_files": [
+        "ml_metrics.md",
+        "ml_metrics_precision_recall.md",
+        "ml_metrics.md",
+        "ml_metrics_precision_recall.md"
+      ],
+      "top_scores": [
+        0.54,
+        0.539,
+        0.538,
+        0.531
+      ]
+    },
+    {
+      "id": "Q8",
+      "question": "What are the core building blocks of a CNN?",
+      "hit": true,
+      "detail": "file+text | top: cnn_basics.md (0.56), cnn_basics.md (0.54), cnn_basics.md (0.52)",
+      "top_files": [
+        "cnn_basics.md",
+        "cnn_basics.md",
+        "cnn_basics.md",
+        "cnn_basics.md"
+      ],
+      "top_scores": [
+        0.565,
+        0.543,
+        0.521,
+        0.412
+      ]
+    },
+    {
+      "id": "Q9",
+      "question": "What prompt engineering rules help grounded RAG assistants?",
+      "hit": true,
+      "detail": "file+text | top: prompt_engineering.md (0.56), rag_basics.md (0.40), vqa_overview.md (0.39)",
+      "top_files": [
+        "prompt_engineering.md",
+        "rag_basics.md",
+        "vqa_overview.md",
+        "prompt_engineering.md"
+      ],
+      "top_scores": [
+        0.56,
+        0.398,
+        0.393,
+        0.384
+      ]
+    },
+    {
+      "id": "Q10",
+      "question": "What belongs on a responsible AI checklist?",
+      "hit": true,
+      "detail": "file+text | top: responsible_ai.md (0.78), responsible_ai.md (0.51), responsible_ai.md (0.49)",
+      "top_files": [
+        "responsible_ai.md",
+        "responsible_ai.md",
+        "responsible_ai.md",
+        "vqa_overview.md"
+      ],
+      "top_scores": [
+        0.779,
+        0.509,
+        0.491,
+        0.436
+      ]
+    }
+  ]
+}

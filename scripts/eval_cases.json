@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Q1",
+    "question": "What is few-shot learning?",
+    "expected_files": ["few_shot_learning_notes.md"],
+    "must_include_any": ["handful of labeled", "few labeled", "few-shot learning aims"]
+  },
+  {
+    "id": "Q2",
+    "question": "What is the N-way K-shot protocol?",
+    "expected_files": ["few_shot_learning_notes.md"],
+    "must_include_any": ["n-way", "k-shot", "support examples"]
+  },
+  {
+    "id": "Q3",
+    "question": "What challenges exist in Visual Question Answering?",
+    "expected_files": ["vqa_overview.md"],
+    "must_include_any": ["language bias", "compositionality", "limited labels"]
+  },
+  {
+    "id": "Q4",
+    "question": "How does Lantern generate answers?",
+    "expected_files": ["lantern_brief.md", "rag_basics.md"],
+    "must_include_any": ["retriev", "cite", "top-k", "vector"]
+  },
+  {
+    "id": "Q5",
+    "question": "What is self-attention in Transformers?",
+    "expected_files": ["transformers_attention.md"],
+    "must_include_any": ["queries", "keys", "values", "self-attention"]
+  },
+  {
+    "id": "Q6",
+    "question": "Explain Retrieval-Augmented Generation in one paragraph.",
+    "expected_files": ["rag_basics.md", "lantern_brief.md"],
+    "must_include_any": ["retriev", "generator", "vector", "chunk"]
+  },
+  {
+    "id": "Q7",
+    "question": "What is the difference between precision and recall?",
+    "expected_files": ["ml_metrics.md", "ml_metrics_precision_recall.md"],
+    "must_include_any": ["precision", "recall", "true positive"]
+  },
+  {
+    "id": "Q8",
+    "question": "What are the core building blocks of a CNN?",
+    "expected_files": ["cnn_basics.md"],
+    "must_include_any": ["convolution", "pooling", "relu"]
+  },
+  {
+    "id": "Q9",
+    "question": "What prompt engineering rules help grounded RAG assistants?",
+    "expected_files": ["prompt_engineering.md"],
+    "must_include_any": ["only", "citation", "abstain", "temperature"]
+  },
+  {
+    "id": "Q10",
+    "question": "What belongs on a responsible AI checklist?",
+    "expected_files": ["responsible_ai.md"],
+    "must_include_any": ["bias", "privacy", "transparency", "human oversight"]
+  }
+]

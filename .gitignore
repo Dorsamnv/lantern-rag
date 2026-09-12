@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/uploads/*
+!data/uploads/.gitkeep
+data/uploads_eval/
+data/chroma/
+data/chroma_eval/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
